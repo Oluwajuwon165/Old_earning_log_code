@@ -5,3 +5,4 @@ django-bootstrap5==22.2
 pkg_resources==0.0.0
 platformshconfig==2.4.0
 sqlparse==0.4.3
+pkg-resources==0.0.0
